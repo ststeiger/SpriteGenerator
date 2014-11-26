@@ -4,6 +4,9 @@ using System.Windows.Forms;
 
 
 // https://spritegenerator.codeplex.com/
+// https://github.com/ststeiger/SpriteGenerator/tree/master/SpriteGenerator
+// http://stackoverflow.com/questions/448981/what-characters-are-valid-in-css-class-selectors
+// http://www.fclose.com/39627/how-to-compressuncompress-files-in-linux-using-gzip-bzip2-7z-rar-and-zip/
 namespace SpriteGenerator
 {
 
